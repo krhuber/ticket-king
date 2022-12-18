@@ -1,0 +1,24 @@
+.Login {
+  font-size: 14px;
+}
+
+form {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.form-group {
+  color: white;
+  font-weight: bold;
+}
+.form-control {
+  font-size: 12px;
+}
+
+.btn {
+  background: #0069d9;
+  color: white;
+  border: #0069d9;
+  border-radius: 5px;
+  padding: 5px 80px;
+}

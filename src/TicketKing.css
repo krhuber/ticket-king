@@ -1,0 +1,17 @@
+.TicketKing {
+  font-family: "Montserrat", sans-serif;
+}
+body {
+  background: linear-gradient(to top, #09203f 0%, #537895 100%);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+  margin: 0 auto;
+  text-align: center;
+  font-size: 80px;
+  color: white;
+}
+.Navbar {
+  max-width: 100%;
+}
