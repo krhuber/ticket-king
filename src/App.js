@@ -1,9 +1,10 @@
 import "./App.css";
+import TicketKing from "./TicketKing";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">Ticket King</header>
+      <TicketKing />
     </div>
   );
 }
