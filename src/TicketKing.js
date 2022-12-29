@@ -23,16 +23,16 @@ export default function TicketKing() {
         </button>
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="navbar-nav">
-            <a className="nav-item nav-link active" href="#">
+            <a className="nav-item nav-link active" href="/">
               Login
             </a>
-            <a className="nav-item nav-link" href="#">
+            <a className="nav-item nav-link" href="/">
               Concerts
             </a>
-            <a className="nav-item nav-link" href="#">
+            <a className="nav-item nav-link" href="/">
               Venues
             </a>
-            <a className="nav-item nav-link" href="#">
+            <a className="nav-item nav-link" href="/">
               More
             </a>
           </div>
